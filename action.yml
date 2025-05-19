@@ -1,6 +1,6 @@
-name: "Podcast Generator"
+name: "RSS Feed Generator"
 author: "Vaidika Kaul"
-description: "Generates a feed for a podcast from the YAML file"
+description: "Generates an RSS feed from the YAML file"
 runs: 
   using: "docker"
   image: "Dockerfile"
