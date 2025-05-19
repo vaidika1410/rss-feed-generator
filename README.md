@@ -1,4 +1,5 @@
 📰 RSS Feed Generator
+
 This repository automates the generation of valid RSS feeds from structured YAML input. Designed to work alongside the rss-feed-demo repository, this tool converts YAML metadata into a fully-formed RSS XML feed — ideal for podcast publishing, article syndication, and content automation.
 
 🔧 Features
